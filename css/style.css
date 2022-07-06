@@ -1,0 +1,35 @@
+/* Home Page */
+.header__main {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 3px 3px 5px #888;
+}
+
+.menu {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+}
+.menu__item {
+    margin-bottom: 3px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+a:hover {
+    color: green;
+    margin-left: 7px;
+    transition: 0.3s;
+}
+/* Receipe Page */
+
+.header__receipe {
+    color: rgb(56, 56, 56);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 3px 3px 5px #888;
+}
+.img__style {
+    border: 2px solid gray;
+    box-shadow: 3px 3px 5px #888;
+}
